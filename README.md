@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [KNoC](https://github.com/CARV-ICS-FORTH/KNoC)
 
-- 📫 How to reach me **malvag at ics.forth.gr**
-
 - ⚡ Fun fact **i really like to break and debug stuff**
 
 <h3 align="left">Connect with me:</h3>
