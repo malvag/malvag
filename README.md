@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KNoC](https://github.com/CARV-ICS-FORTH/KNoC)
 
-- ⚡ Fun fact **i really like to break and debug stuff**
+- ⚡ Fun fact, **i really like to break and debug stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
