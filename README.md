@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vangelis</h1>
-<h3 align="center">A passionate systems software engineer from Greece</h3>
+<h3 align="center">A Research Assistant at <a href="https://www.ics.forth.gr/carv/">FORTH</a> and a MSc student at <a href="https://www.csd.uoc.gr/">UoC</a><h3>
 
 - 🔭 I’m currently working on [KNoC](https://github.com/CARV-ICS-FORTH/KNoC)
 
