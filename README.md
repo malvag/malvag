@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vangelis</h1>
 <h3 align="center">A Research Assistant at <a href="https://www.ics.forth.gr/carv/">CARV</a> and a MSc student in Computer Science and Engineering at <a href="https://www.csd.uoc.gr/">UoC</a><h3>
 
-- 🔭 I’m currently working on [KNoC](https://github.com/CARV-ICS-FORTH/KNoC)
-
 - ⚡ Fun fact, **i really like to break and debug stuff**
 
 <h3 align="left">Connect with me:</h3>
