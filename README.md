@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vangelis</h1>
 <h3 align="center">A Research Assistant at <a href="https://www.ics.forth.gr/carv/">CARV</a> and a MSc student in Computer Science and Engineering at <a href="https://www.csd.uoc.gr/">UoC</a><h3>
 
-- ⚡ Fun fact, **i really like to break and debug stuff**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evangelos-maliaroudakis-3280b1136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evangelos maliaroudakis" height="30" width="40" /></a>
